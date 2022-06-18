@@ -70,7 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 <p align="center">	
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="[https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical](http://github-readme-streak-stats.herokuapp.com?user=sbatrow&theme=dark&background=000000)" alt="Sbatrow's Github Stats">
 
 
 <div align="center">
