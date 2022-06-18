@@ -17,8 +17,6 @@
 	- C++
 	- Some Java
 
-<img align="right" src=""/>
-
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
