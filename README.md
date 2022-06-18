@@ -8,6 +8,25 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+---
+
+
+## Ask me about :computer: 
+- **Competitive Programming**
+	- Python ❤️
+	- C++
+	- Some Java
+
+<img align="right" src=""/>
+
+- **Web Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+	- React with Redux :electron:
+	- MonogoDB
+  - Express
+  - NodeJS  
+- **Shell Scripting**
 
 ### :woman_technologist: &nbsp;About Me :
 
