@@ -72,7 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbatrow&layout=compact&theme=github_dark" alt="Top Langs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbatrow" alt="Top Langs">
 </p>
 
 <p align="center">	
