@@ -64,8 +64,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbatrow&layout=compact&theme=vision-friendly-dark)](https://github.com/sbatrow/github-readme-stats)
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=sbatrow&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
-
+</p>
 
 <p align="center">	
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sbatrow&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
